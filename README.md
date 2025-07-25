@@ -22,5 +22,6 @@ I'm a curious mind with a deep love for tech, creativity, and building things th
 - X (formerly Twitter): [@spectra010s](https://x.com/spectra010s)  
 - Telegram: [@spectra010s](https://t.me/spectra010s)  
 - Email: [spectra010s@gmail.com](mailto:spectra010s@gmail.com)
+  
 
-- ⚡ Fun fact: hardly working
+## ⚡ Fun fact: hardly working
