@@ -24,4 +24,4 @@ I'm a curious mind with a deep love for tech, creativity, and building things th
 - Email: [spectra010s@gmail.com](mailto:spectra010s@gmail.com)
   
 
-## ⚡ Fun fact: hardly working
+⚡ Fun fact: hardly working
