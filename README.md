@@ -3,20 +3,25 @@
 
 ## About Me
 I'm a curious mind with a deep love for tech, creativity, and building things that solve problems or spark ideas
--  I’m currently working on a challenge
+- 🔧 Currently working on a project & challenge
+- 📱 Building using my phone — no excuses, just creativity
+- 🌱 Learning other tech stack
   
 ## 🛠 Languages & Tools 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino&logoColor=00979D)
   
   ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   
 ## 💬 Ask Me About
-- HTML, CSS, Firebase
+- Frontend development
+- Web3, Blockchain Development
+- DIY tech projects using everyday tools  
   
 ## 📫 How to Reach Me:
 - X (formerly Twitter): [@spectra010s](https://x.com/spectra010s)  
