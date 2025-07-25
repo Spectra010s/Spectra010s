@@ -3,9 +3,8 @@
 
 ## About Me
 I'm a curious mind with a deep love for tech, creativity, and building things that solve problems or spark ideas
-- 🔧 Currently working on a project & challenge
+- 🛠 Currently learning and exploring more stacks
 - 📱 Building using my phone — no excuses, just creativity
-- 🌱 Learning other tech stack
   
 ## 🛠 Languages & Tools 
 - 🌐 &nbsp;
