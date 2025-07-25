@@ -9,7 +9,7 @@ I'm a curious mind with a deep love for tech, creativity, and building things th
 -  I’m currently learning javascript
   
 ## 💬 Ask Me About
-- HTML, CSS
+- HTML, CSS, Firebase
   
 - ## 📫 How to Reach Me:
 - X (formerly Twitter): [@spectra010s](https://x.com/spectra010s)  
