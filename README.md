@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Spectra — aka Tayo</h1>
+<h1 align="center">Hi 👋, I'm Spectra </h1>
 <h3 align="center">Creative technologist exploring Web3 and hardware, mechatronist </h3>
 
 ## About Me
