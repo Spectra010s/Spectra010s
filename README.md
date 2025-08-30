@@ -4,12 +4,12 @@
 ## About Me
 I'm a curious mind with a deep love for tech, creativity, and building things that solve problems or spark ideas
 - 🛠 Currently learning and exploring more stacks
-- 📱 Building using my phone — no excuses, just creativity
+- 📱 Build with my phone — no excuses, just creativity
   
 ## 🛠 Languages & Tools 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
   ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino&logoColor=00979D)
   
