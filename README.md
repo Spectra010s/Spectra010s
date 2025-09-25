@@ -10,11 +10,11 @@ I'm a curious mind with a deep love for tech, creativity, and building things th
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css&logoColor=1572B6)
-  ![JS](https://img.shields.io/badge/-JS-333333?style=flat&logo=javascript)
+  ![JS](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Nextjs](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=nextjs)
   ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=nodejs)
+  ![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![TS](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=socket.io)
