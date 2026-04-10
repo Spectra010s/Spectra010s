@@ -1,41 +1,29 @@
-<h1 align="center">Hi 👋, I'm Spectra </h1>
-<h3 align="center">Creative technologist exploring Web3 and hardware, mechatronist </h3>
+<h1 align="center">Hi there, I'm Adeloye Adetayo 🤚</h1>
 
-## About Me
-I'm a curious mind with a deep love for tech, creativity, and building things that solve problems or spark ideas
--  Currently learning and exploring more stacks
--  Build with my phone — no excuses, just creativity
-  
-## Languages & Tools 
--  &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css&logoColor=1572B6)
-  ![JS](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Nextjs](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=nextjs)
-  ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=node.js)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![TS](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=socket.io)
-  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino&logoColor=00979D)
-  
-   &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode)
-  ![WindSurf](https://img.shields.io/badge/-WindSurf-333333?style=flat&logo=windSurf)
-  
-## Ask Me About
-- Frontend development
-- Web3, Blockchain Development
-- DIY tech projects using everyday tools  
-  
-## How to Reach Me:
-- X (formerly Twitter): [@spectra010s](https://x.com/spectra010s)  
+<p align="center">
+  Mechatronist building across web, Web3, and hardware, usually from a phone.
+</p>
+
+## About
+
+I build tools, interfaces, and experiments that try to be useful, curious, and a little unconventional.
+
+- Building with a phone, not waiting for perfect conditions
+- Interested in software, systems, and hardware-adjacent ideas
+- Usually shipping small things fast, then refining from there
+
+## Some of the projects I've been working on
+
+- **[My Campus Library](https://mycampuslib.vercel.app)**: Digital library for study materials, past questions, and academic resources.
+- **[Hiverra Portal](https://portal.biuld.app)**: Lightweight file transfer tool for moving files between devices locally or remotely.
+- **[Git-AIC](https://gitaic.vercel.app)**: AI-powered Git commit message generator built around a simpler commit workflow.
+- **[Term-Invader Console](https://term-invader.vercel.app)**: Browser-based version of Term-Invader powered by WebContainers.
+- **[Biuld](https://biuld.app)**: Social IDE exploring collaborative building and developer workflows.
+
+## Reach Out
+
+- X: [@spectra010s](https://x.com/spectra010s)
 - Telegram: [@spectra010s](https://t.me/spectra010s)
 - Email: [spectra010s@gmail.com](mailto:spectra010s@gmail.com)
-  
 
-⚡ Fun fact: hardly working
+hardly working 🤞
