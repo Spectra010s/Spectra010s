@@ -4,6 +4,8 @@
   Mechatronist building across web, Web3, and hardware, usually from a phone.
 </p>
 
+**Portfolio:** [Spectra010s](https://spectra010s.vercel.app)
+
 ## About
 
 I build tools, interfaces, and experiments that try to be useful, curious, and a little unconventional.
