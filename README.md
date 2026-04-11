@@ -1,10 +1,6 @@
-<h1 align="center">Hi there, I'm Adeloye Adetayo 🤚</h1>
+# Hi, I'm Adeloye Adetayo 🤚
 
-<p align="center">
-  Mechatronist building across web, Web3, and hardware, usually from a phone.
-</p>
-
-**Portfolio:** [Spectra010s](https://spectra010s.vercel.app)
+I’m a Mechatronics Engineer building across web, Web3, and hardware, usually from a phone.
 
 ## About
 
@@ -24,8 +20,9 @@ I build tools, interfaces, and experiments that try to be useful, curious, and a
 
 ## Reach Out
 
-- X: [@spectra010s](https://x.com/spectra010s)
-- Telegram: [@spectra010s](https://t.me/spectra010s)
-- Email: [spectra010s@gmail.com](mailto:spectra010s@gmail.com)
+- **Portfolio:** [Spectra010s](https://spectra010s.vercel.app)
+- **X:** [@spectra010s](https://x.com/spectra010s)
+- **Telegram:** [@spectra010s](https://t.me/spectra010s)
+- **Email:** [spectra010s@gmail.com](mailto:spectra010s@gmail.com)
 
-hardly working 🤞
+_hardly working 🤞_
