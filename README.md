@@ -20,7 +20,7 @@ I build tools, interfaces, and experiments that try to be useful, curious, and a
 
 ## Reach Out
 
-- **Portfolio:** [Spectra010s](https://spectra010s.vercel.app)
+- **Portfolio:** [Spectra010s](https://spectra010s.biuld.app)
 - **X:** [@spectra010s](https://x.com/spectra010s)
 - **Telegram:** [@spectra010s](https://t.me/spectra010s)
 - **Email:** [spectra010s@gmail.com](mailto:spectra010s@gmail.com)
